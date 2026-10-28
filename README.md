@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Open-Elevation is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://open-elevation.com/
+Open-Elevation provides a free, open-source elevation API that offers worldwide elevation data derived from NASA/USGS SRTM datasets. Users can query elevations via simple HTTP GET requests without needing an API key for modest usage, while paid plans grant higher limits and faster throughput. The service is hosted publicly at open-elevation.com and also offers self-hosted Docker images for private deployments. It aims to be an easy-to-use alternative to commercial elevation services.
+
+**Areas:** Company · Elevation · Geospatial · Open-Source · Free
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://open-elevation.com/)
+- [Documentation](https://github.com/Jorl17/open-elevation/blob/master/docs/host-your-own.md)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/open-elevation/](https://apis.io/providers/open-elevation/).
